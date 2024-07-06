@@ -6,10 +6,11 @@ Mi objetivo es ser parte de grandes proyectos que desafíen mis habilidades y me
 crecer profesional y personalmente.
 
 ## Tecnologias
- Python, JavaScript, Java
- HTML, CSS
- Git, VS Code
- MySQL
+💻 Python, JavaScript, Java
+🌐 HTML, CSS
+🛠️ Git, VS Code
+🗃️ MySQL
+
 
 <!--
 **Latooo/Latooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
