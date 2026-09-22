@@ -15,21 +15,20 @@
 
 ### Sobre mí
 
-Desarrollo y mantengo un **ERP multiempresa en producción** (Mantis) en **SOMIC Soluciones**, construido en **GeneXus 18** con generador **Java** y **SQL Server**, desplegado en **Apache Tomcat**.
+Desarrollo software empresarial en **SOMIC Soluciones**, sobre un **ERP multiempresa en producción** con **Java** y **SQL Server**, desplegado en **Apache Tomcat**.
 
 - 🧾 Trabajo toda la cadena comercial: **cotización → remisión → factura**, inventario, cartera, comisiones y contabilización.
 - 🏥 Doy soporte directo a clientes del sector farmacéutico y de salud, incluyendo reportes regulatorios (**SISMED / SISDIS**) y normativa tributaria.
 - ⚡ Me gusta la parte de rendimiento: optimización de consultas T-SQL, índices y eliminación de patrones N+1 (p. ej. reduje en ~3 min la carga del listado de facturas).
-- 🐍 En mis proyectos personales uso **Python** para automatización y bots de trading algorítmico sobre mercados de predicción.
+- 🐍 Uso **Python** para automatización y scripts.
 - 🌱 Ahora mismo estoy profundizando en **Spring Boot, APIs REST, React y Docker**.
 
-> **EN —** Software developer working on a production multi-company ERP (GeneXus 18 · Java · SQL Server · Tomcat): invoicing, inventory, accounting and regulatory reporting for healthcare/pharma clients. Backend- and data-focused, open to remote roles.
+> **EN —** Software developer building a production multi-company ERP (Java · SQL Server · Tomcat): invoicing, inventory, accounting and regulatory reporting for healthcare/pharma clients. Backend- and data-focused, open to remote roles.
 
 ### Stack
 
 **Día a día en producción**<br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/GeneXus_18-00A3E0?style=flat-square">
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
 <img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square">
 <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
@@ -43,6 +42,7 @@ Desarrollo y mantengo un **ERP multiempresa en producción** (Mantis) en **SOMIC
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/GeneXus-00A3E0?style=flat-square">
 
 ### Proyectos destacados
 
@@ -55,7 +55,7 @@ Desarrollo y mantengo un **ERP multiempresa en producción** (Mantis) en **SOMIC
 | [**Postgres – Jardinería**](https://github.com/Latooo/Postgres_LatorreDaniel) | Batería de consultas SQL sobre la base de datos *Jardinería* | PostgreSQL |
 | [**spaceX**](https://github.com/Latooo/spaceX) | Cliente web que consume la API pública de SpaceX | HTML · CSS · JS |
 
-> El código del ERP y de mis bots de trading es privado; con gusto los explico en una entrevista.
+> El código del ERP es privado; con gusto lo explico en una entrevista.
 
 ### Formación
 
