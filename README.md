@@ -49,6 +49,7 @@ Desarrollo software empresarial en **SOMIC Soluciones**, sobre un **ERP multiemp
 | Proyecto | Qué es | Stack |
 |---|---|---|
 | [**Portafolio**](https://github.com/Latooo/Portafolio) | Web personal bilingüe ES/EN, tema claro/oscuro, accesible y sin frameworks | HTML · CSS · JS |
+| [**Flick**](https://github.com/Latooo/Flick) | Catálogo web de Flick, tienda de periféricos gaming en Bucaramanga: sitio estático con contenido en JSON y pedidos por WhatsApp · [ver sitio](https://latooo.github.io/Flick/) | HTML · CSS · JS |
 | [**SomicPruebaTecnica**](https://github.com/Latooo/SomicPruebaTecnica) | Prototipo de facturación: backend Java + MySQL y formulario web que registra facturas | Spring Boot · MySQL · JS |
 | [**Inventario API**](https://github.com/Latooo/Taller1_SpringBoot_LatorreDaniel-PerezAndres) | API REST CRUD para gestión de inventario | Spring Boot · JPA |
 | [**Filtro_Java**](https://github.com/Latooo/Filtro_Java_LatorreDaniel) | App de consola con arquitectura MVC + DAO sobre MySQL (ninjas, misiones, habilidades) | Java · JDBC · MySQL |
