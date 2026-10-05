@@ -22,6 +22,7 @@ Desarrollo software empresarial en **SOMIC Soluciones**, sobre un **ERP multiemp
 - ⚡ Me gusta la parte de rendimiento: optimización de consultas T-SQL, índices y eliminación de patrones N+1 (p. ej. reduje en ~3 min la carga del listado de facturas).
 - 🐍 Uso **Python** para automatización y scripts.
 - 🌱 Ahora mismo estoy profundizando en **Spring Boot, APIs REST, React y Docker**.
+- 🖱️ Por fuera del trabajo llevo con un socio **[Flick](https://flickcol.netlify.app)**, una tienda de periféricos gaming en Bucaramanga, y desarrollo su catálogo web.
 
 > **EN —** Software developer building a production multi-company ERP (Java · SQL Server · Tomcat): invoicing, inventory, accounting and regulatory reporting for healthcare/pharma clients. Backend- and data-focused, open to remote roles.
 
@@ -49,7 +50,7 @@ Desarrollo software empresarial en **SOMIC Soluciones**, sobre un **ERP multiemp
 | Proyecto | Qué es | Stack |
 |---|---|---|
 | [**Portafolio**](https://github.com/Latooo/Portafolio) | Web personal bilingüe ES/EN, tema claro/oscuro, accesible y sin frameworks | HTML · CSS · JS |
-| [**Flick**](https://github.com/Latooo/Flick) | Catálogo web de Flick, tienda de periféricos gaming en Bucaramanga: sitio estático con contenido en JSON y pedidos por WhatsApp · [ver sitio](https://latooo.github.io/Flick/) | HTML · CSS · JS |
+| [**Flick**](https://github.com/Latooo/Flick) | Catálogo web de Flick, tienda de periféricos gaming en Bucaramanga: sitio estático con contenido en JSON y pedidos por WhatsApp · [ver sitio](https://flickcol.netlify.app) | HTML · CSS · JS |
 | [**SomicPruebaTecnica**](https://github.com/Latooo/SomicPruebaTecnica) | Prototipo de facturación: backend Java + MySQL y formulario web que registra facturas | Spring Boot · MySQL · JS |
 | [**Inventario API**](https://github.com/Latooo/Taller1_SpringBoot_LatorreDaniel-PerezAndres) | API REST CRUD para gestión de inventario | Spring Boot · JPA |
 | [**Filtro_Java**](https://github.com/Latooo/Filtro_Java_LatorreDaniel) | App de consola con arquitectura MVC + DAO sobre MySQL (ninjas, misiones, habilidades) | Java · JDBC · MySQL |
